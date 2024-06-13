@@ -6,14 +6,14 @@ reward models, policy models, and experimental results in the [InstructPatentGPT
 ### Citation for this work: 
 ```
 @article{instructpatentgpt, 
-	author = {Lee, Jieh-Sheng},
-	title = {InstructPatentGPT: training patent language models to follow instructions with human feedback},
-	date = {2024/05/08},
-	doi = {10.1007/s10506-024-09401-1},
-	isbn = {1572-8382},
-	journal = {Artificial Intelligence and Law},
-	url = {https://doi.org/10.1007/s10506-024-09401-1},
-	year = {2024},
+  author = {Lee, Jieh-Sheng},
+  title = {InstructPatentGPT: training patent language models to follow instructions with human feedback},
+  date = {2024/05/08},
+  doi = {10.1007/s10506-024-09401-1},
+  isbn = {1572-8382},
+  journal = {Artificial Intelligence and Law},
+  url = {https://doi.org/10.1007/s10506-024-09401-1},
+  year = {2024},
 }
 ```
 
